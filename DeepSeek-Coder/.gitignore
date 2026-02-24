@@ -1,0 +1,11 @@
+__pycache__/
+Evaluation/MBPP/eval_instruct.sh
+Evaluation/LeetCode/output/
+cp-tutor/data/raw/
+cp-tutor/data/train.jsonl
+cp-tutor/data/eval.jsonl
+cp-tutor/training/output/
+*.pt
+*.bin
+*.safetensors
+.ipynb_checkpoints/
